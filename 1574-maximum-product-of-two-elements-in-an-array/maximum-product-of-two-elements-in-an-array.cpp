@@ -14,4 +14,4 @@ public:
 
         return (mx1 - 1) * (mx2 - 1);
     }
-};
+}; //github
