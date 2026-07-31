@@ -8,4 +8,4 @@ class Solution:
         for i, f in enumerate(freq):
             ans += f * (i // 8 + 1)
 
-        return ans
+        return ans   #github
